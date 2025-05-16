@@ -1,0 +1,7 @@
+
+body { font-family: sans-serif; margin: 0; padding: 0; background: #fefefe; }
+header { background: #f5a; color: white; padding: 20px; text-align: center; }
+nav { background: #ffd; padding: 10px; text-align: center; }
+main { padding: 20px; }
+.product { background: #eee; margin: 10px 0; padding: 10px; border-radius: 10px; }
+footer { text-align: center; padding: 10px; background: #ccc; }
